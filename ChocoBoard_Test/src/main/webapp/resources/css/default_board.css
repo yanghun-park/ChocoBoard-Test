@@ -1,0 +1,69 @@
+/* ================================================================
+                             게시판 인덱스
+ ================================================================ */ 
+/* 검색창 배경 */
+.search-background{
+	width: calc(100% - 100px);
+	background-color: #F2F2F2;
+	
+	position: relative;
+	display: block;
+	margin: auto;
+	top: 70px;
+	height: 120px;
+}
+
+/* 페이징네이션 */
+.paging-section{
+	position: relative;
+	display: block;
+	width: 100%;
+	top: 10px;
+}
+
+
+/* 검색창 크기 */
+.search-box{
+	position: relative;
+	display: block;
+	width: 450px;
+	top: 10px;
+	margin: auto;
+}
+
+/* 게시글 작성 */
+.write-box{
+	position: relative;
+	display: block;
+	float: right;
+}
+
+
+/* ================================================================
+                             게시글 작성
+ ================================================================ */ 
+/* 제목 */
+.editor-name{
+	position: relative;
+	width: 100px;
+	height: 40px;
+}
+
+
+
+
+
+/* 에디터 */
+.editor-container{
+	position: relative;
+	display: block;
+	width: 90%;
+	margin: auto;
+}
+
+.editor-textarea{
+	width: 100%;
+	height: 400px;	
+}
+
+
