@@ -23,7 +23,7 @@
 			</div>
 	
         	<textarea class="form-control editor-textarea"></textarea>
-        	
+        	<!-- git test 공부 -->
 			<!-- 게시글 작성 버튼 -->
 			<div class="editor-btn">
 				<button type="button" class="btn btn-secondary" onclick="location.href='/board'">취소</button>
